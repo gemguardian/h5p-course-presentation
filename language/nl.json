@@ -237,11 +237,11 @@
         },
         {
           "label": "Uitleg dia-navigatie voor ondersteunende technologieën",
-          "default": "Gebruik de pijl-links en pijl-rechts om de dia in die richting te veranderen als je het canvas selecteert."
+          "default": "Gebruik de linker -en rechterpijl om van dia te veranderen als je het canvas selecteert."
         },
         {
           "label": "Canvaslabel voor ondersteunende technologieën",
-          "default": "Presentatiecanvas. Gebruik de pijl naar links en de pijl naar rechts om tussen de dia's te navigeren."
+          "default": "Presentatiecanvas. Gebruik de linker -en rechterpijl om van dia te veranderen."
         },
         {
           "label": "Label voor nog niet voltooide interacties",
@@ -311,12 +311,12 @@
           ]
         },
         {
-          "label": "Show \"Show solution\" button in the summary slide",
-          "description": "If enabled, the learner will be able to show the solutions for all question when they reach the summary slide"
+          "label": "Toon \"Toon oplossing\" knop in samenvattingsdia",
+          "description": "Wanneer ingesteld, zal de lerende de mogelijkheid hebbben om de antwoorden van alle vragen te bekijken wanneer ze bij de samenvattingsdia zijn"
         },
         {
-          "label": "Show \"Retry\" button in the summary slide",
-          "description": "If enabled, the learner will be able to retry all questions when they reach the summary slide. Be advised that by refreshing the page the learners will be able to retry even if this button isn't showing."
+          "label": "Toon \"Opnieuw proberen\" knop in de samenvattingsdia",
+          "description": "Wanneer ingesteld, zal de lerende de mogelijkheid hebben om alle vragen opnieuw te proberen wanneer ze de samenvattingsdia bereikt hebben. Wees er van bewust van dat wanneer lerende de pagina refreshen de mogelijkheid hebben om de vraag opnieuw te proberen ookal wordt de knop niet getoond."
         },
         {
           "label": "Printknop inschakelen",
